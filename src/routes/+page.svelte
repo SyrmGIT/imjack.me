@@ -169,11 +169,11 @@
 				<div class="mb-connections">
 					<div class="mb-wrapper">
 						<a href="mailto:jackholmes@onmail.com"><img src={Email} alt="email icon" /></a>
-						<a href="https://discordapp.com/users/497444619131551745"><img src={Discord} alt="discord icon" /></a>
-						<a href="https://www.linkedin.com/in/jack-holmes-408929225/"><img src={LinkedIn} alt="linkedin icon" /></a>
-						<a href="https://github.com/SyrmGIT"><img src={GitHub} alt="github icon" /></a>
+						<a href="https://discordapp.com/users/497444619131551745" target="_blank" rel="noreferrer"><img src={Discord} alt="discord icon" /></a>
+						<a href="https://www.linkedin.com/in/jack-holmes-408929225/" target="_blank" rel="noreferrer"><img src={LinkedIn} alt="linkedin icon" /></a>
+						<a href="https://github.com/SyrmGIT" target="_blank" rel="noreferrer"><img src={GitHub} alt="github icon" /></a>
 					</div>
-					<a class="mb-cv" href="https://google.com">Download my CV -></a>
+					<a class="mb-cv" href="%sveltekit.assets%/cv.pdf">Download my CV -></a>
 				</div>
 			</div>
 		</div>
@@ -181,7 +181,7 @@
 			<div class="photos">
 				<div class="column">
 					<img src={BigBen} alt="big ben" />
-					<a href="https://google.com">Download my CV -></a>
+					<a href="%sveltekit.assets%/cv.pdf">Download my CV -></a>
 				</div>
 				<div class="column">
 					<img src={Office} alt="office space" />
