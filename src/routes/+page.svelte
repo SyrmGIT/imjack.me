@@ -145,7 +145,7 @@
 							<img src={Discord} alt="discord icon" />
 							<div class="content">
 								<span>Discord</span>
-								<a href="https://discordapp.com/users/497444619131551745">Syrm#0001</a>
+								<a href="https://discordapp.com/users/497444619131551745" target="_blank" rel="noreferrer">Syrm#0001</a>
 							</div>
 						</div>
 					</div>
@@ -154,14 +154,14 @@
 							<img src={LinkedIn} alt="linkedin icon" />
 							<div class="content">
 								<span>LinkedIn</span>
-								<a href="https://www.linkedin.com/in/jack-holmes-408929225/">@jack-holmes</a>
+								<a href="https://www.linkedin.com/in/jack-holmes-408929225/" target="_blank" rel="noreferrer">@jack-holmes</a>
 							</div>
 						</div>
 						<div class="github">
 							<img src={GitHub} alt="github icon" />
 							<div class="content">
 								<span>GitHub</span>
-								<a href="https://github.com/SyrmGIT">@SyrmGIT</a>
+								<a href="https://github.com/SyrmGIT" target="_blank" rel="noreferrer">@SyrmGIT</a>
 							</div>
 						</div>
 					</div>

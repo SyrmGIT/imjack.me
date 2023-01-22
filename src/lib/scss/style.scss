@@ -623,6 +623,15 @@
 		.category {
 			display: none;
 		}
+
+		.content-wrapper {
+			flex-direction: column;
+			text-align: center;
+			justify-content: center;
+			align-items: center;
+			max-width: 650px !important;
+			gap: 10px;
+		}
 	}
 
 	.selected-projects .project-cards {
