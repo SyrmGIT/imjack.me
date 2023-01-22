@@ -127,7 +127,7 @@
 	<div class="contact-me-container">
 		<div class="contact-me-wrapper">
 			<div class="content">
-				<span class="category">PROJECTS<span class="line" /></span>
+				<span class="category">CONTACT<span class="line" /></span>
 				<h1>Let’s connect.</h1>
 				<p class="description">Thank you for visiting my website. If you have a project in mind and need assistance, I am open to both freelance and contracted work. Please don't hesitate to reach out and let's discuss further.</p>
 			</div>
