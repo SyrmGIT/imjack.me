@@ -173,7 +173,7 @@
 						<a href="https://www.linkedin.com/in/jack-holmes-408929225/" target="_blank" rel="noreferrer"><img src={LinkedIn} alt="linkedin icon" /></a>
 						<a href="https://github.com/SyrmGIT" target="_blank" rel="noreferrer"><img src={GitHub} alt="github icon" /></a>
 					</div>
-					<a class="mb-cv" href="cv.pdf">Download my CV -></a>
+					<a class="mb-cv" href="CV.pdf">Download my CV -></a>
 				</div>
 			</div>
 		</div>
@@ -181,7 +181,7 @@
 			<div class="photos">
 				<div class="column">
 					<img src={BigBen} alt="big ben" />
-					<a href="cv.pdf">Download my CV -></a>
+					<a href="CV.pdf">Download my CV -></a>
 				</div>
 				<div class="column">
 					<img src={Office} alt="office space" />
