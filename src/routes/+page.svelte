@@ -14,9 +14,9 @@
 
 <div class="sm-container">
 	<div class="hero-banner">
-		<span class="profession">UIX Design & Web Development<span class="line" /></span>
+		<span class="profession">UIX Design & Software Engineer<span class="line" /></span>
 		<h1>JACK HOLMES</h1>
-		<p>A passionate web developer, and experienced designer from the United Kingdom. Creating fast, responsive and scalable websites using modern technologies. I am studying design, business and web development.</p>
+		<p>I am a web developer and designer from the United Kingdom, passionate about creating fast, responsive, and scalable websites using modern technologies. I am currently studying design, business, and web development.</p>
 		<a href="#contact-me" class="button">Contact me!</a>
 	</div>
 </div>
@@ -25,11 +25,11 @@
 		<div class="card-wrapper">
 			<div class="design-card">
 				<h2>Digital Design</h2>
-				<p>Designing has been a long path of choosing which tools I prefer to work with, and I prefer using Figma for website design. I also use the Adobe suite for other work!</p>
+				<p>I have been on a journey of selecting my preferred design tools, and I have chosen Figma as my go-to tool for website design. I also use the Adobe suite for other design projects.</p>
 			</div>
 			<div class="dev-card">
 				<h2>Web Development</h2>
-				<p>Designing has been a long path of choosing which tools I prefer to work with, and I prefer using Figma for website design. I also use the Adobe suite for other work!</p>
+				<p>Experimenting with different technologies has been enjoyable. I have played around with Sveltekit, SolidJS and Visual Studio Code is my preferred IDE for development.</p>
 			</div>
 		</div>
 		<div class="skills">
@@ -49,8 +49,8 @@
 		<span class="category">PROJECTS<span class="line" /></span>
 		<h2>Selected Projects.</h2>
 		<div class="content-wrapper">
-			<p>Developing & designing has been a long path of choosing which tools I prefer to work with, and it all depends on what has to be created for the client.</p>
-			<p>Many tools are not listed, but these are the tools I use. Using the tools presented on a daily basis means I can move at a faster pace and have the highest quality work.</p>
+			<p>A majority of my work experience has been in projects that I own myself. In addition to managing, marketing, and administrating to get the project off the ground, I have also worked specifically on the development and design aspects.</p>
+			<p>These are only a selection of the projects I have worked on. I have chosen not to list other projects as I do not consider them to be a comprehensive representation of my abilities or a suitable showcase for my website.</p>
 		</div>
 		<div class="project-cards gap">
 			<div class="project-card atlas">
@@ -72,7 +72,7 @@
 					</div>
 				</div>
 				<div class="visit-link">
-					<p>Visit project -></p>
+					<a href="https://atlasos.net" target="_blank" rel="noreferrer">Visit project -></a>
 				</div>
 			</div>
 			<div class="project-card imjack">
@@ -94,7 +94,7 @@
 					</div>
 				</div>
 				<div class="visit-link">
-					<p>Visit respository -></p>
+					<a href="https://github.com/SyrmGIT/imjack.me" target="_blank" rel="noreferrer">Visit repository -></a>
 				</div>
 			</div>
 		</div>
@@ -117,7 +117,7 @@
 					</div>
 				</div>
 				<div class="visit-link">
-					<p>Visit project -></p>
+					<a href="https://eclean.gg" target="_blank" rel="noreferrer">Visit project -></a>
 				</div>
 			</div>
 		</div>
@@ -129,7 +129,7 @@
 			<div class="content">
 				<span class="category">PROJECTS<span class="line" /></span>
 				<h1>Let’s connect.</h1>
-				<p class="description">Thanks for browsing my website. If you have a project in mind, and you’re looking for support; I’m always open for freelance or contracted work. So, let’s talk!</p>
+				<p class="description">Thank you for visiting my website. If you have a project in mind and need assistance, I am open to both freelance and contracted work. Please don't hesitate to reach out and let's discuss further.</p>
 			</div>
 			<div class="connections-container">
 				<div class="connections-wrapper">
