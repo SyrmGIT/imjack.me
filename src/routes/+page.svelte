@@ -131,7 +131,7 @@
 				<h1>Let’s connect.</h1>
 				<p class="description">Thank you for visiting my website. If you have a project in mind and need assistance, I am open to both freelance and contracted work. Please don't hesitate to reach out and let's discuss further.</p>
 			</div>
-			<div class="connections-container">
+			<div id="contact-me" class="connections-container">
 				<div class="connections-wrapper">
 					<div class="column">
 						<div class="email">
