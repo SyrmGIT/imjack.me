@@ -8,6 +8,7 @@ specifiers:
   sass: ^1.57.1
   svelte: ^3.54.0
   svelte-check: ^2.9.2
+  svelte-preprocess: ^4.10.7
   tslib: ^2.4.1
   typescript: ^4.9.3
   vite: ^4.0.0
@@ -22,6 +23,7 @@ devDependencies:
   prettier-plugin-svelte: 2.9.0_kdmmghgdi3ngrsq6otxkjilbry
   svelte: 3.55.1
   svelte-check: 2.10.3_sass@1.57.1+svelte@3.55.1
+  svelte-preprocess: 4.10.7_feqgtmonqoj7yjk2wjndla2xcu
   tslib: 2.4.1
   typescript: 4.9.4
   vite: 4.0.4_sass@1.57.1
@@ -249,6 +251,7 @@ packages:
       '@sveltejs/kit': ^1.0.0
     dependencies:
       '@sveltejs/kit': 1.0.0_svelte@3.55.1+vite@4.0.4
+    dev: false
 
   /@sveltejs/kit/1.0.0_svelte@3.55.1+vite@4.0.4:
     resolution: {integrity: sha512-6VgD5C3i2XOT7GRBi5LaPPLiFAmpiDkhKJNVt8fLg1RmaL6f7rT4Kiwi2XGpYRj3V1F4t1QRdsfmAkkDUKY3OA==}
