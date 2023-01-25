@@ -7,9 +7,9 @@
 	import LinkedIn from '$lib/assets/images/linkedin.svg';
 	import GitHub from '$lib/assets/images/github.svg';
 	import Discord from '$lib/assets/images/discord.svg';
-	import BigBen from '$lib/assets/images/big_ben.png';
-	import ExeterIOT from '$lib/assets/images/exeter_iot.png';
-	import Office from '$lib/assets/images/office.png';
+	import BigBen from '$lib/assets/images/big_ben.webp';
+	import ExeterIOT from '$lib/assets/images/exeter_iot.webp';
+	import Office from '$lib/assets/images/office.webp';
 </script>
 
 <div class="sm-container">
@@ -38,10 +38,10 @@
 			<p>Developing & designing has been a long path of choosing which tools I prefer to work with, and it all depends on what has to be created for the client.</p>
 			<p>Many tools are not listed, but these are the tools I use. Using the tools presented on a daily basis means I can move at a faster pace and have the highest quality work.</p>
 			<div class="technologies-wrapper">
-				<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src={TailwindLogo} alt="tailwind logo" /></a>
-				<a href="https://figma.com/" target="_blank" rel="noreferrer"><img src={FigmaLogo} alt="figma logo" /></a>
-				<a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"><img src={SvelteLogo} alt="svelte logo" /></a>
-				<a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src={SolidJSLogo} alt="solidjs logo" /></a>
+				<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src={TailwindLogo} style="width: 43px; height: 25px;" alt="tailwind logo" /></a>
+				<a href="https://figma.com/" target="_blank" rel="noreferrer"><img src={FigmaLogo} style="width: 25px; height: 37px;" alt="figma logo" /></a>
+				<a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"><img src={SvelteLogo} style="width: 33px; height: 39px;" alt="svelte logo" /></a>
+				<a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src={SolidJSLogo} style="width: 39px; height: 36px;" alt="solidjs logo" /></a>
 			</div>
 		</div>
 	</div>
@@ -180,12 +180,12 @@
 		<div class="cv-section">
 			<div class="photos">
 				<div class="column">
-					<img src={BigBen} alt="big ben" />
+					<img src={BigBen} style="width: 350px; height:300px;" alt="big ben" />
 					<a href="CV.pdf">Download my CV -></a>
 				</div>
 				<div class="column">
-					<img src={Office} alt="office space" />
-					<img src={ExeterIOT} alt="exeter iot building" />
+					<img src={Office} style="width: 287px; height:178px;" alt="office space" />
+					<img src={ExeterIOT} style="width: 287px; height:178px;" alt="exeter iot building" />
 				</div>
 			</div>
 		</div>
