@@ -511,12 +511,16 @@
 		display: none !important;
 	}
 
+	.contact-me-container {
+		padding: 70px 30px !important;
+	}
+
 	.card-content {
 		gap: 50px !important;
 	}
 
 	.project-card {
-		padding: 43px 118px 68px 58px !important;
+		padding: 43px 168px 64px 40px !important;
 	}
 }
 
@@ -542,6 +546,12 @@
 
 // Medium devices (tablets, less than 992px)
 @media screen and (max-width: 993px) {
+	.lg-container {
+		max-width: 1464px;
+		margin: 0 auto;
+		padding: 0px 10px;
+	}
+
 	.sm-container {
 		padding: 0px;
 	}
@@ -665,7 +675,7 @@
 	.hero-banner {
 		margin-top: 0px;
 		text-align: center;
-		padding: 120px 80px !important;
+		padding: 120px 35px !important;
 
 		.profession {
 			display: none;
@@ -691,7 +701,11 @@
 		}
 
 		.skills {
-			width: 70%;
+			width: 90%;
+
+			p {
+				margin: 0 auto;
+			}
 		}
 
 		.category {
